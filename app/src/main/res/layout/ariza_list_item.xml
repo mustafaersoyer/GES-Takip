@@ -15,7 +15,7 @@
         <ImageView
             android:layout_width="60dp"
             android:layout_height="60dp"
-            android:src="@drawable/solarrelax"
+
              />
 
         <LinearLayout

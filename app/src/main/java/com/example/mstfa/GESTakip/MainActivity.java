@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     final protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setTitle("SolarRelax");
+        setTitle("GES-Takip");
 
         drawerLayout = (DrawerLayout) findViewById(R.id.drawerLayout);
 
