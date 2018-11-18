@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/popup_tamEkran"
+        android:title="Tam Ekran"/>
+
+    <item
+        android:id="@+id/popup_aylik"
+        android:title="Aylık"/>
+
+    <item
+        android:id="@+id/popup_saatlik"
+        android:title="Saatlik"/>
+
+</menu>

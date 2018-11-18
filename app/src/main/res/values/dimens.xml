@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_height">100dp</dimen>
+    <dimen name="nav_header_height">192dp</dimen>
+    <dimen name="expanded_toolbar_title_margin_start">10dp</dimen>
+    <dimen name="nav_header_text_margin_left">16dp</dimen>
+</resources>

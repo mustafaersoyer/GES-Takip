@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        android:id="@+id/navigation_items"
+        android:clickable="true"
+        >
+        <item
+            android:id="@+id/hakkinda"
+            android:title="Hakkında" />
+        <item
+            android:id="@+id/deneme"
+            android:title="Deneme" />
+        <item
+            android:id="@+id/iletisim"
+            android:title="İletişim" />
+        <item
+            android:id="@+id/cikis"
+            android:title="Çıkış"
+            />
+    </group>
+</menu>
