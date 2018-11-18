@@ -1,4 +1,4 @@
-package com.example.mstfa.solarrelaxtab;
+package com.example.mstfa.GESTakip;
 
 import android.content.DialogInterface;
 import android.content.Intent;

@@ -1,4 +1,4 @@
-package com.example.mstfa.solarrelaxtab;
+package com.example.mstfa.GESTakip;
 import android.app.Application;
 import android.content.Context;
 import android.support.multidex.MultiDex;

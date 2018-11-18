@@ -1,4 +1,4 @@
-package com.example.mstfa.solarrelaxtab;
+package com.example.mstfa.GESTakip;
 
 import org.junit.Test;
 
